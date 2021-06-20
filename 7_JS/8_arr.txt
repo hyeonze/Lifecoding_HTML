@@ -1,0 +1,11 @@
+<배열관련 javascript 함수>
+a.toUpperCase : 문자열 대문자로
+arr.length : 배열의 엘리먼트 갯수
+arr.push('f') : 배열 마지막에 엘리먼트 추가
+arr.concat(['f', 'g']) : 배열 뒤에 배열 연결
+arr.unshift('z') : 배열 맨앞에 엘리먼트 추가
+arr.splice(index, number, 'x', 'y') : index위치에 엘리먼트 껴넣고 number만큼 소거
+arr.shift() : 배열의 첫 엘리먼트 제거
+arr.pop() : 배열의 마지막 엘리먼트 제거
+arr.sort() : 엘리먼트 오름차순 정렬
+arr.reverse() : 엘리먼트 내림차순 정렬
